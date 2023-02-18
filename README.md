@@ -1,49 +1,37 @@
-# Purpose
+### Purpose
 ___
 ## THE STOCK PICKER 
->**Aims to optimize investment returns based on holding period.**
-
+>**Aims to optimize ROI based on holding period.**
+>
 ___
-# Goal
-### * Porfolio tracking
-> `info here`
-### * Management
-> `infor here`
-### * Minimize Investors' Risk
-> `info here`
-### * Maximize Investors' Return
-> `info here`
-# Potential Benefits
-```
-1) 'info here'
-2) 'info here'
-3) 'info here'
-```
-# Technologies & Dependencies
+### Goal
+> __THE STOCK PICKER__ engages the unknown factors in trading via simulations tracking. Tracking stocks in simulated environment allows our metrics to close the gaps in hypertrading markets.
 
-### Languages:
+### Potential Benefits
+1) User can benefit from Volatility Analysis in picking the right stocks w/ lower acceptable risks relative to its returns.
+2) Holding period lays out a strategy that incorporates posibilities in pursuit of opportunities as well as recognizing trade-offs.
+3) Tax consequencies are better managed by our Capital Gains Deferment module.
+
+### Application Dependencies
+    -os
+    -requests
+    -questionary
+    -json
+    -pandas
+    -dotenv
+    -alpaca_trade_api
+    -random
+    -MCForecastTools
+    -%matplotlib inline
+    -hvplot
+    -pip
+
+### Language:
 > Python 3.7
-
-### Libraries
-> `Questionary` \
-`pathlib` \
-`csv` \
-`info here` 
-
-### Python Modules
-> `Pandas` \
-`Numpy` \
-`PyViz` \
-`info here`
-
-### Package manager
-> `pip`
 
 ### Framework
 > `Alpaca API` \
-> `Monte Carlo Simulation` \
-> `SQLite Database` \
-> `info here`
+> `Monte Carlo Simulation` 
 
 ### Operating system
 > `Windows` \
@@ -51,7 +39,7 @@ ___
 > `Mac`
 ___
 
-# Installation Guide
+### Installation Guide
 
 To repeat the analysis on your own machine, simply open the Jupyter notebok in a web browser and run each cell. This will provide data analysis as well as visualization through a variety of graphs.
 
@@ -60,9 +48,10 @@ To repeat the analysis on your own machine, simply open the Jupyter notebok in a
 #### Thanks for your contributions:
 > **Rachel Phillips --- Isabella Barrera --- Christian Alimbo**
 
-#### Contact:
->www:
+>`Contact:`
 
-## License
+>www.thestockpicker.org
+
+### License
 
 MIT
