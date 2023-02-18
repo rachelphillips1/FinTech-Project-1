@@ -2,10 +2,14 @@
 ___
 ## THE STOCK PICKER 
 >**Aims to optimize ROI based on holding period.**
->
+
 ___
+![image](Images/stockpickergraphic.png)
 ### Goal
 > __THE STOCK PICKER__ engages the unknown factors in trading via simulations tracking. Tracking stocks in simulated environment allows our metrics to close the gaps in hypertrading markets.
+
+### User
+![Image](Images/roadmap.png)
 
 ### Potential Benefits
 1) User can benefit from Volatility Analysis in picking the right stocks w/ lower acceptable risks relative to its returns.
